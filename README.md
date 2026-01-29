@@ -218,8 +218,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or collaborations, please contact:
 
-- Email: [adeniranprecious002@gmail.com]
-- LinkedIn: ([Adeniran Precious Adebayo](https://www.linkedin.com/in/precious-adeniran-842b58294))
+- Email: adeniranprecious002@gmail.com
+- LinkedIn: [Adeniran Precious Adebayo](https://www.linkedin.com/in/precious-adeniran-842b58294)
 - GitHub: [@adeniranprecious002-ux](https://github.com/adeniranprecious002-ux)
 
 ## 📚 References
