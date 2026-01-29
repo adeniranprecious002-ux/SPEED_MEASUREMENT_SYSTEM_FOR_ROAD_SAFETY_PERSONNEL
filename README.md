@@ -237,3 +237,5 @@ If you found this project helpful, please consider giving it a star! It helps ot
 ---
 
 **Disclaimer:** This project was developed for educational purposes as part of an undergraduate degree program. While the system demonstrates functional speed measurement capabilities, it should be further tested and certified before deployment in production road safety applications.
+#   S P E E D _ M E A S U R E M E N T _ S Y S T E M _ F O R _ R O A D _ S A F E T Y _ P E R S O N N E L  
+ 
