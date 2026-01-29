@@ -1,0 +1,40 @@
+# Arduino
+*.hex
+*.elf
+*.eep
+*.lss
+*.map
+*.sym
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Proteus
+*.workspace
+Backup/
+*.pdsbak
+
+# Documentation
+*.tmp
+~$*
+
+# Build artifacts
+build/
+*.o
+*.a
+
+# Logs
+*.log
+
+# Temporary files
+temp/
+tmp/
