@@ -128,6 +128,30 @@ According to the World Health Organization (WHO):
 
 1. Clone this repository:
 
+   ```bash
+   git clone https://github.com/adeniranprecious002-ux/SPEED_MEASUREMENT_SYSTEM_FOR_ROAD_SAFETY_PERSONNEL.git
+   cd speed-measurement-system
+   ```
+
+2. Open the Arduino IDE and load the main sketch:
+
+   ```bash
+   File -> Open -> src/main.ino
+   ```
+
+3. Install required libraries (if not already installed):
+   - Sketch -> Include Library -> Manage Libraries
+   - Search for "LiquidCrystal" and install
+
+4. Install required libraries (if not already installed):
+   - Sketch -> Include Library -> Manage Libraries
+   - Search for "LiquidCrystal" and install
+
+5. Connect your Arduino Uno and upload the code:
+   - Tools -> Board -> Arduino Uno
+   - Tools -> Port -> [Select your port]
+   - Sketch -> Upload
+
 ```bash
 git clone https://github.com/adeniranprecious002-ux/SPEED_MEASUREMENT_SYSTEM_FOR_ROAD_SAFETY_PERSONNEL.git
 cd speed-measurement-system
@@ -218,7 +242,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or collaborations, please contact:
 
-- Email: [adeniranprecious002@gmail.com]
+- Email: <adeniranprecious002@gmail.com>
 - LinkedIn: [Adeniran Precious Adebayo](https://www.linkedin.com/in/precious-adeniran-842b58294)
 - GitHub: [@adeniranprecious002-ux](https://github.com/adeniranprecious002-ux)
 
